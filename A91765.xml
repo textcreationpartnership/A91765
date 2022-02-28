@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and protestation, of the Parliament of Scotland to their declared King: touching, their late agreement, the setling of the Presbytery government, and the future preservation of that kingdome. With, the resolution of the Emperour of Germany, the Queen of Sweden, and the King of Denmark, concerning the said King. Also, the proceedings of the Scotch ministers, to their respective congregations, concerning their King, and the advance of the English-Army.</title>
+            <author>Reynor, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91765</idno>
+            <idno type="STC">Wing R1325</idno>
+            <idno type="STC">Thomason E603_7</idno>
+            <idno type="STC">ESTC R205813</idno>
+            <idno type="EEBO-CITATION">99865075</idno>
+            <idno type="PROQUEST">99865075</idno>
+            <idno type="VID">165652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165652)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and protestation, of the Parliament of Scotland to their declared King: touching, their late agreement, the setling of the Presbytery government, and the future preservation of that kingdome. With, the resolution of the Emperour of Germany, the Queen of Sweden, and the King of Denmark, concerning the said King. Also, the proceedings of the Scotch ministers, to their respective congregations, concerning their King, and the advance of the English-Army.</title>
+                  <author>Reynor, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Will: Reynor.</note>
+                  <note>Annotation on Thomason copy: "June 17.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165652:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND PROTESTATION, OF The PARLIAMENT of SCOTLAND TO Their Declared KING: TOUCHING, Their late Agreement, the ſetling of the Preſbytery Government, and the future preſervation of that Kingdome.</p>
+            <p>WITH, The Reſolution of the Emperour of Germany, the <hi>Queen</hi> of <hi>Sweden,</hi> and the King of <hi>Denmark,</hi> concerning the ſaid King.</p>
+            <p>ALSO, The Proceedings of the Scotch Miniſters, to their reſpective Congregations, concerning their King, and the advance of the <hi>Engliſh-Army.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165652:2"/>
+            <pb n="1" facs="tcp:165652:2"/>
+            <head>The DECLARATION And PROTESTATION, Of the Parliament of Scotland, to their declared <hi>KING.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving ſo fair an opportunity for the com<g ref="char:EOLhyphen"/>municating of Intelligence, I thought my ſelf obliged to ſalute you once more with the preſent tranſactions and occur<g ref="char:EOLhyphen"/>rences, now agitating and in diſpute between the Parliement convened at <hi>Edenborough,</hi> and their young titulary King; and to the end, that my lines may not receive the ignominious brand of partia<g ref="char:EOLhyphen"/>lity, I ſhall inſert the moſt certain truths, and eſpe<g ref="char:EOLhyphen"/>cially thoſe which are of greateſt concernment, and fit for publike view; a brief narrative whereof, I here preſent as followeth.</p>
+            <p>The Parliament convened, having ſpent ſome time in debate of the Anſwer of their young King with their Commiſſioners, for a reconciliation in love and
+<pb n="2" facs="tcp:165652:3"/>amity, and to come with them in a happy Agreement; and finding his condeſcenſions, not onely ſatisfactory to the <hi>Kirk</hi> and <hi>State,</hi> but alſo, much conducing, for the erecting of a ſtronger foundation, to uphold the ſeveral Tenents and Principles of <hi>Presbytery,</hi> according to the ſolemn League and Covenant; joyntly reſolv<g ref="char:EOLhyphen"/>ed to expreſs their great affections, and loyalty, unto him, by way of Meſſage, and Declaration, wherein they profeſs and declare, in the preſence of the Great God, who is the judge and ſearcher of all hearts, That they rejoyce at his peaceable Condeſcentions, his late promiſe, and great ſplendor of the Goſpel, and the li<g ref="char:EOLhyphen"/>berty and propriety of the Subject, and alſo, his hear<g ref="char:EOLhyphen"/>kening to the wholſome advice of the Commiſſioners of that Kingdom; deſiring him not to ſtumble or make a ſtand, at ſome ſeeming obſtacles, which may ariſe from the reducing of the Marqueſs of <hi>Montroſs</hi> his Forces, <hi>&amp;c.</hi> but withall aſſuring him, That there is nothing in what they do, but ſhall be ſutable to his intereſt, for the beſt advantage; and that they aim at nothing more, then the ſetling of the true reformed Religion, (without the intermixture of Hereſie or practice) the reſtoring of his Royal Perſon, to Ho<g ref="char:EOLhyphen"/>nour and Dignity, and the preſervation of them<g ref="char:EOLhyphen"/>ſelves, and thoſe that ſhall adhere to them, in peace and ſafety: all which they promiſe and proteſt to perform, with the hazard of lives, fortunes, and e<g ref="char:EOLhyphen"/>ſtates. This Meſſage was forthwith diſpatched, to their declared Soveraign, whom they daily expect at <hi>Edenburgh,</hi> where great preparations are making, for the receiving him in Honour and Tryumph, his Pa<g ref="char:EOLhyphen"/>lace being beautifully adorned, proviſion made for his
+<pb n="3" facs="tcp:165652:3"/>accomodation and accoutrement, and Officers elected and choſen for the attending of his Perſon.</p>
+            <p>But yet not withſtanding, the great progreſs herein made by the <hi>Parliament;</hi> great are the murmurings of many ſorts of people, who ſtick not to ſay, that they are confident, an <hi>Engliſh</hi> block will be his Ranſome: Others, that they cannot approve of his coming in; (fearing that their Eſtates will lye liable to the ſpoyle of the <hi>Engliſh</hi> Souldiery,) and therefore are reſolved to acquit themſelves thereof, and to adhear to the <hi>Parliament</hi> of <hi>England</hi> in heart, and ſo ſoon as the fruits of their labours ſhall be once ripe, and brought to ma<g ref="char:EOLhyphen"/>turity, then they proteſt to act in perſon; but theſe frolick expreſſions, being too ſoon diſcovered, divers of them were apprehended, and committed to ſafe Cuſtody; and amongſt the reſt, one Mr. <hi>Euſebius Sanders,</hi> (an <hi>Engliſhman</hi>) who, when the Officers came to ſeize on his Perſon, told them, that he feared not what they could do againſt him, and that they would find a ſudden change from <hi>England,</hi> to the parpetual diſhonour, and breaking in ſunder the yoke of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> but however, the <hi>Scots</hi> Miniſters ſoar high in their Pulpits, ſtirring up the people to a mutual En<g ref="char:EOLhyphen"/>gagement, againſt the <hi>Engliſh</hi> Sectaries, (as they are pleaſed to call them,) and openly praying, That that Sword, may never proſper, that ſhall be drawn againſt them; to which (we hear) that many of the <hi>Engliſh</hi> Covenanters ſay, <hi>Amen.</hi>
+            </p>
+            <p>Here is a third Degree, or Sect, of People, which are very zealous for the <hi>Parliament</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who ſay, That their Cauſe is good, and that God owns both <hi>Them,</hi> and <hi>It;</hi> and that whoſoever makes Warre againſt them, ſhall utterly
+<pb n="4" facs="tcp:165652:4"/>fall, and be deſtroyed; and alſo, that all Chriſtian Princes, and Potentates, ſhall honour their Name, and deſire to live in peace and unity with them; tou<g ref="char:EOLhyphen"/>ching which, ſomething of note may be inſerted, worth your obſervation, in reference to forreign Prin<g ref="char:EOLhyphen"/>ces, which is this;</p>
+            <p>That the King of <hi>Scots</hi> having formerly addreſſed himſelf by way of Embaſſage, to the Kings of <hi>Den<g ref="char:EOLhyphen"/>mark, France, Poland,</hi> the Emperour of <hi>Germany,</hi> and the <hi>Queen</hi> of <hi>Sweden,</hi> for men and moneys, a poſi<g ref="char:EOLhyphen"/>tive anſwer is now returned, and the King of <hi>Denmark</hi> declares;</p>
+            <p>That his preſent occaſions are ſo great &amp; dan<g ref="char:EOLhyphen"/>gerous, that he can no way poſſible ſupply him either with men or monies: the King of France alſo hath ſent a Letter to him, intimating, that what he formerly promiſed, cannot now be performed, by reaſon of the daily inſurrecti<g ref="char:EOLhyphen"/>ons of his people, within his own territories. Germany and Poland declare the like in part; but withall ſay, that if he can procure moneys they will furniſh him with men: Indeed, the Queen and States of Sweden promiſe, that no<g ref="char:EOLhyphen"/>thing ſhall be wanting in them, for propagating his deſign, and that they earneſtly deſire his re<g ref="char:EOLhyphen"/>ſtauration; which is but a complement, for (as yet) no men or money appears, which is the life or ſinew of Wars.</p>
+            <p>Many ſtickling ſpirits, are ſtill active, notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="5" facs="tcp:165652:4"/>the exemplary judgement upon Collonel <hi>
+                  <g ref="char:V">Ʋ</g>rrey,</hi> Collonel <hi>Spotsford,</hi> and others, who were lately beheaded at <hi>Edenborough,</hi> for their hoſtile in<g ref="char:EOLhyphen"/>vaſion; they died very penitently, and ſeemed to rejoyce that they were brought to ſo honourable an end, for adhering to the King and his cauſe; but Collonel <hi>Graham</hi> (brother to the late Marqueſs of <hi>Montroſs</hi>) deſires not to taſte the ſweetneſs thereof; for no ſooner had he intelligence of the fatall blow gi<g ref="char:EOLhyphen"/>ven to his brother, but he immediatly haſted from the North of <hi>Scotland,</hi> and took ſhipping for <hi>Holland;</hi> from whence he had landed ſome few forces, together with a French Marqueſs; but the Monſieur wanting a Scotch head-piece, his body fell to the mercy of Lieutenant General <hi>Leſley's</hi> forces; for Collonel <hi>Gra<g ref="char:EOLhyphen"/>ham</hi> made him not privy to his eſcape, but very cunningly (though treacherouſly) made ſure of one. The ſaid Marqueſs is now brought priſoner to <hi>Eden<g ref="char:EOLhyphen"/>borough,</hi> where being examined wherefore he inva<g ref="char:EOLhyphen"/>ded that Kingdom in a hoſtile manner, he anſwered, the loyall affection which he bore their King, invited him thither, and that he came to joyn with a party in the Iſles of <hi>Orkney,</hi> for the bringing home his ſaid Majeſty, to ſettle him in peace and honour. But it's doubtfull whether this anſwer will prove ſatisfactory or not; however the <hi>Scots</hi> pretend fair.</p>
+            <p>The arrivall of the News of the <hi>Engliſh</hi> Armies advance towards the Borders, doth not a little ſtar<g ref="char:EOLhyphen"/>tle many of the great ones; yet they declare, that they are reſolved to ſtand firm to their principles, and reſolve to put themſelves into a poſture of de<g ref="char:EOLhyphen"/>fence, for the preſervation of their Country; what
+<pb n="6" facs="tcp:165652:5"/>the effect of this will be few days will make manifeſt. Nevertheleſſe, the report of their coming with an Army of five and twenty thouſand Horſe and foot, and a train of Artillery of forty pieces of Canon (great and ſmall) gives a great ſound in the ears of many, which makes them very ſlow and dull, in ap<g ref="char:EOLhyphen"/>pearing too viſible for the contrary party. Thus ha<g ref="char:EOLhyphen"/>ving impartially delivered with the one hand, what I received with the other, I ſhall inſiſt no further at preſent; but conclude with this proverbiall phraſe: <hi>That he who denies himſelf, and ſeeks to prefer the things of God before the things of the world (in fighting his bat<g ref="char:EOLhyphen"/>tels) ſhall proſper; but he who ayms at ſelf-ends, more than the honour of God, and the publike good, ſhall ſurely fall:</hi> Now that our Engliſh Army may onely ſeek the glo<g ref="char:EOLhyphen"/>ry of God, and their Countries preſervation; is the hearty deſire of</p>
+            <closer>
+               <signed>
+                  <hi>Your true and Cordial friend,</hi> Will: Reynor.</signed>
+               <dateline>
+                  <hi>Leith,</hi> 
+                  <date>
+                     <hi>June</hi> 8. 1650</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
